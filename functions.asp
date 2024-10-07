@@ -1,4 +1,7 @@
-// THis is umair and I am commtting my first commit
+
+
+// This is only for the command for the local as well as for the online changes.
+
 <script language="javascript">
 function PreLoadWait()
 {
